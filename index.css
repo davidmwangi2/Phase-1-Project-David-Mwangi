@@ -62,3 +62,48 @@ input[type="text"] {
     color: blue;
 }
 
+/* Default styles */
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsive styles */
+
+@media only screen and (max-width: 768px) {
+    .container {
+        max-width: 90%;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .container {
+        padding: 10px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .container {
+        margin: 20px auto;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .container {
+        margin: 10px auto;
+    }
+}
+
+body {
+    background-repeat: no-repeat;
+    background-size: cover; /* Optional: This ensures the background image covers the entire viewport */
+    background-position: center; /* Optional: This centers the background image */
+}
+
+
+
