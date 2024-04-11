@@ -45,7 +45,7 @@ function showUpdateButton() {
 }
 
 function showDeleteButton() {
-    document.getElementById('deleteButton').style.display = 'block';
+    document.getElementById('deleteButton').style.display = 'Inner-block';
 }
 
 
