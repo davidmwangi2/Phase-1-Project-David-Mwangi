@@ -33,7 +33,15 @@
         "humidity": 50,
         "windSpeed": 18,
         "condition": "Rainy"
+    },
+    "nyeri": {
+        "location": "Nyeri",
+        "temperature": 18,
+        "humidity": 89,
+        "windSpeed": 19,
+        "condition": "Rainy"
     }
+
 }
 
 
