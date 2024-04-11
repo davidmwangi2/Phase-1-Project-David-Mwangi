@@ -14,6 +14,7 @@ body {
 
 h1 {
     text-align: center;
+    font-size: xx-large;
 }
 
 input[type="text"] {
@@ -24,7 +25,7 @@ input[type="text"] {
     border: 1px solid #ccc;
 }
 
-button {
+.GetForecast {
     display: block;
     width: 100%;
     padding: 10px;
@@ -35,7 +36,7 @@ button {
     cursor: pointer;
 }
 
-button:hover {
+.GetForecast:hover {
     background-color:brown;
 }
 
@@ -51,5 +52,13 @@ button:hover {
     font-size: 20px;
     font-weight: bold;
     color:purple;
+}
+.deleteForecast {
+    cursor: pointer;
+    color: brown;
+}
+
+.deleteForecast:hover {
+    color: blue;
 }
 
