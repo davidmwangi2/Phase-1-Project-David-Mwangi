@@ -1,48 +1,66 @@
-{
-    "nairobi": {
-        "location": "Nairobi",
-        "temperature": 15,
-        "humidity": 70,
-        "windSpeed": 10,
-        "condition": "Sunny"
-    },
-    "kakamega": {
-        "location": "Kakamega",
-        "temperature": 10,
-        "humidity": 80,
-        "windSpeed": 15,
-        "condition": "Cloudy"
-    },
-    "nakuru": {
-        "location": "Nakuru",
-        "temperature": 18,
-        "humidity": 65,
-        "windSpeed": 12,
-        "condition": "Partly Cloudy"
-    },
-    "nyandarua": {
-        "location": "Nyandarua",
-        "temperature": 17,
-        "humidity": 87,
-        "windSpeed": 11,
-        "condition": "Cloudy"
-    },
-    "mombasa": {
-        "location": "Mombasa",
-        "temperature": 24,
-        "humidity": 50,
-        "windSpeed": 18,
-        "condition": "Rainy"
-    },
-    "nyeri": {
-        "location": "Nyeri",
-        "temperature": 18,
-        "humidity": 89,
-        "windSpeed": 19,
-        "condition": "Rainy"
-    }
+[ {
+    "location": "New York",
+    "temperature": 18,
+    "humidity": 70,
+    "windSpeed": 10,
+    "condition": "Cloudy"
+  },
+  
+  {
+    "location": "Kakamega",
+    "temperature": 17,
+    "humidity": 65,
+    "windSpeed": 19,
+    "condition": "windy"
+  },
 
-}
+  {
+    "location": "Mombasa",
+    "temperature": 16,
+    "humidity": 60,
+    "windSpeed": 20,
+    "condition": "rainy"
+  },
 
+  {
+    "location": "Nairobi",
+    "temperature": 15,
+    "humidity": 55,
+    "windSpeed": 21,
+    "condition": "sunny"
+  },
+
+  {
+    "location": "Kisumu",
+    "temperature": 14,
+    "humidity": 50,
+    "windSpeed": 22,
+    "condition": "sunny"
+  },
+
+  {
+    "location": "Kampala",
+    "temperature": 13,
+    "humidity": 45,
+    "windSpeed": 23,
+    "condition": "sunny"
+  },
+
+  {
+    "location": "Kilifi",
+    "temperature": 12,
+    "humidity": 40,
+    "windSpeed": 24,
+    "condition": "sunny"
+  },
+
+
+  {
+    "location": "Nyandarua",
+    "temperature": 10,
+    "humidity": 20,
+    "windSpeed": 25,
+    "condition": "rainy"
+  }]
 
 
